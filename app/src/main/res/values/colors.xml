@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="header_text_color">#DC143C</color>
+    <color name="Green">#4b9b87</color>
+    <color name="Crimson">#DC143C</color>
+</resources>

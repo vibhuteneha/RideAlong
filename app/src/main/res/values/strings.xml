@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ride Along</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_name">Ride Along</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_notification">Notification</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_car_details">DriverDetailsActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_passenger">PassengerDetailsActivity</string>
+    <string name="title_activity_driver_details">DriverDetailsActivity</string>
+    <string name="title_activity_passenger_details">PassengerListActivity</string>
+    <string name="title_activity_driver_list">DriverListActivity</string>
+    <string name="title_activity_driver_detail">DriverDetailActivity</string>
+    <string name="title_activity_passenger_detail">PassengerDetailActivity</string>
+    <string name="title_activity_auto_complete">AutoCompleteActivity</string>
+    <string name="map_list_header_txt">Description</string>
+    <string name="map_geo_search_input_hint">Search</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
+

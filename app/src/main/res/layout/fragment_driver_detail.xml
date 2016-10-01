@@ -1,0 +1,87 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ridealong.DriverDetailActivityFragment"
+    tools:showIn="@layout/activity_driver_detail">
+
+    <TextView
+        android:id="@+id/driverName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:fontFamily="cursive"/>
+    <TextView
+        android:id="@+id/driverEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverName"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/driverFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverEmail"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/driverDest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverFrom"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/driverCarModel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverDest"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/driverCarNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverCarModel"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/driverLeavingDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/driverCarNum"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:gravity="center"/>
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/action_accept"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_toRightOf="@+id/driverLeavingDate"-->
+        <!--android:layout_toEndOf="@+id/driverLeavingDate" />-->
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Map"
+        android:id="@+id/mapButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/road">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/road"
+    android:orientation="vertical"
+    android:focusable="false"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.ridealong.RegisterActivityFragment"
+    tools:showIn="@layout/activity_register">
+
+
+    <TextView
+    android:id="@+id/elogin"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:text="Already Registered ? Login Now !"
+    android:textColor="@color/colorAccent" />
+
+    <EditText
+        android:id="@+id/efirstname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_person_outline_white_24dp"
+        android:editable="true"
+        android:hint="First Name"
+        android:textColorHint="@color/white"
+        android:textColor="@color/abc_primary_text_disable_only_material_dark" />
+
+    <EditText
+        android:id="@+id/elastname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_person_outline_white_24dp"
+        android:editable="true"
+        android:hint="Last Name"
+        android:textColorHint="@color/white"
+        android:textColor="@color/abc_primary_text_disable_only_material_dark" />
+
+    <EditText
+        android:id="@+id/e_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_email_white_24dp"
+        android:editable="true"
+        android:hint=" Email"
+        android:textColorHint="@color/white"
+        android:textColor="@color/abc_primary_text_disable_only_material_dark" />
+
+    <EditText
+        android:id="@+id/epassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableLeft="@mipmap/ic_vpn_key_white_24dp"
+        android:editable="true"
+        android:ems="10"
+        android:hint="Password"
+        android:textColorHint="@color/white"
+        android:inputType="textPassword"
+        android:textColor="@color/abc_primary_text_disable_only_material_dark" />
+
+    <EditText
+        android:id="@+id/ephone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableLeft="@mipmap/ic_phone_white_24dp"
+        android:ems="10"
+        android:hint=" Phone"
+        android:textColorHint="@color/white"
+        android:inputType="phone"
+        android:textColor="@color/abc_primary_text_disable_only_material_dark"/>
+
+    <Button
+        android:id="@+id/eregister"
+        android:layout_width="186dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:text="Register"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:ellipsize="middle"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="@android:color/holo_blue_dark"
+        />
+
+</LinearLayout>
+</ScrollView>

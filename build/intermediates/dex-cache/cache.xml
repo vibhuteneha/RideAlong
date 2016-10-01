@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.1_a8101864d80e334f343722c315a08e180f5d86e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.1_1d5b1a768d57aff479f1ecfe3e60560e357b8b0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.1_5aebe7ff65336983692ad42955699a9f5ed97a53.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_cf0cbfe5b0b65b36aff2ad65cd10e371766e34a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_e5f1b4f23a0ce29508537df09a2a95c31afcc4ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.2.4\3b7f38df6de5dd8b500e602ae8c2dd5ee446f883\httpcore-4.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7f38df6de5dd8b500e602ae8c2dd5ee446f883">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\httpcore-4.2.4_b82630e899949e97850659a7b6d20d646388ec9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_4180d2b9b1d86de3ac1a203d01e4994b38bd3412.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a2814bb33cf94f364e81417b1397e0b2dde82822.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.1_5cb245e3e5721daee411fb909f6edd1ef87dbd9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1ab6ea48279ed4959f9e09756e6155455ed5919d">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\instant-run_6302ba3dde5bbd5b3caab9e31d7011eaad5453e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0139e9eb1da4c679e7b74d52d799bd13837bb05f">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fcc4c1ecea3a7c45b89f4e02ab91ddecea00038a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_6e4254099b046a60969ee5d3affbe993adc7c702.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_1769f51410ca48186e7e6dde7ea7cf717ca91756.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_b1064e3fdddc2c13d2a02650b6480466d6430e60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_72438decc8aa68aa3dfee73d022e94f2bd8c4573.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e51f4e3317456544915089185a40f4883addbdf1">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.1_0df3b45e06707ad816dd6b01af21a18298a1360a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_0352ff7c27d5705d950de3d14f5c69dc8098103a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_21b2a303ec20667d04374692f98da1babe0f9e9b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.2.4\dba4d4d224e2ca872af5be8d2992777583145478\httpmime-4.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dba4d4d224e2ca872af5be8d2992777583145478">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\httpmime-4.2.4_cd866f07743cbec101904973d4a5576280df6d76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_7213889f6f6242b19831e0279acdfb714163b5b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\okio-1.6.0_0f7c92b498981e9166137534fa21b8ed56234931.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd6820c177093398f096088a6f4abc3014588e65">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.1_9c85d11dcb300a3d70c120b584b19bd384d2e9ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0_152fc95bfaee575817aef0e35b742023797489c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_d771367a59d90ee5469c32d209b5980a0815dfcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neha\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Neha\AndroidStudioProjects\RideAlong2\app\build\intermediates\pre-dexed\debug\gson-2.6.1_c6b54bd71d6a650a1b0c37d61e085726f5e4e234.jar" />
+    </item>
+
+</items>
